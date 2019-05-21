@@ -55,7 +55,7 @@ public class FlutterGopayMidtransPlugin implements MethodCallHandler {
     }
   }
 
-  private void configGopay(String client_id, String amount, String deadline, String gopaytoken, merchantUrl){
+  private void configGopay(String client_id, String amount, String deadline, String gopaytoken, String merchantUrl){
     SdkUIFlowBuilder.init()
             .setContext(this.context)
             .setClientKey(client_id)
