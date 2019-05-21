@@ -1,0 +1,41 @@
+group 'org.digidaw.flutter_gopay_midtrans'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url "http://dl.bintray.com/pt-midtrans/maven" }
+        maven { url "https://jitpack.io" }
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 16
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}
+
+dependencies{
+    implementation 'com.midtrans:uikit:1.21.2'
+    implementation 'com.midtrans:corekit:1.21.2'
+}

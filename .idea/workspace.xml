@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0000eb8b-7351-47a6-bd74-bcbcba179f30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/app/src/main/java/com/example/belajarmvvm/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/java/com/example/belajarmvvm/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/Profile Widget/SettingsWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Profile Widget/SettingsWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/Transaction/PaymentMethod.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Transaction/PaymentMethod.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/Transaction/SelectedTicketQuantity.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Transaction/SelectedTicketQuantity.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/Transaction/Xendit/TicketReview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Transaction/Xendit/TicketReview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/eventCatalogWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/eventCatalogWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Widgets/eventDetailsWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/eventDetailsWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helper/API/apiHelper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helper/API/apiHelper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helper/API/baseApi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helper/API/baseApi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helper/static_map_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helper/static_map_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/example/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2110620606">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dart" value="2" />
+          <entry key="gradle" value="1" />
+          <entry key="md" value="1" />
+          <entry key="yaml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dart" value="2" />
+          <entry key="Groovy" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dart" value="453" />
+          <entry key="gradle" value="14" />
+          <entry key="md" value="43" />
+          <entry key="yaml" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dart" value="453" />
+          <entry key="Groovy" value="14" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="YAML" value="80" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/flutter_gopay_midtrans.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/lib/flutter_gopay_midtrans.dart" />
+        <option value="$PROJECT_DIR$/test/flutter_gopay_midtrans_test.dart" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
+        <option value="$PROJECT_DIR$/example/test/widget_test.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_gopay_midtrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_gopay_midtrans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_gopay_midtrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_gopay_midtrans" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0000eb8b-7351-47a6-bd74-bcbcba179f30" name="Default Changelist" comment="" />
+      <created>1558429525366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558429525366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="707" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Captures" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.3284553" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/flutter_gopay_midtrans_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flutter_gopay_midtrans.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
