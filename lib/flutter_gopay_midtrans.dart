@@ -10,7 +10,8 @@ class FlutterGopayMidtrans {
     String client_id,
     String amount,
     String deadline,
-    String gopaytoken
+    String gopaytoken,
+    String merchantUrl
   }) async {
     assert(client_id != null);
 
@@ -18,7 +19,8 @@ class FlutterGopayMidtrans {
       "client_id": client_id,
       "amount": amount,
       "deadline": deadline,
-      "gopaytoken": gopaytoken
+      "gopaytoken": gopaytoken,
+      "merchantUrl": merchantUrl
     });
 
     if(result != ""){
