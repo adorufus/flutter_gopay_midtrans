@@ -46,19 +46,20 @@ public class FlutterGopayMidtransPlugin implements MethodCallHandler {
       String amount = call.argument("amount");
       String deadline = call.argument("deadline");
       String gopaytoken = call.argument("gopaytoken");
+      String merchantUrl = call.argument("merchantUrl");
       this.result = result;
 
-      configGopay(client_id, amount, deadline, gopaytoken);
+      configGopay(client_id, amount, deadline, gopaytoken, merchantUrl);
     } else {
       result.notImplemented();
     }
   }
 
-  private void configGopay(String client_id, String amount, String deadline, String gopaytoken){
+  private void configGopay(String client_id, String amount, String deadline, String gopaytoken, merchantUrl){
     SdkUIFlowBuilder.init()
             .setContext(this.context)
             .setClientKey(client_id)
-            .setMerchantBaseUrl("https://home.eventeventapp.com/webhook/midtrans")
+            .setMerchantBaseUrl(merchantUrl)
             .setTransactionFinishedCallback(new TransactionFinishedCallback(){
               @Override
               public void onTransactionFinished(TransactionResult transactionResult) {

@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/../android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android/app/src/main/java/com/example/belajarmvvm/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/java/com/example/belajarmvvm/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/Widgets/Profile Widget/SettingsWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Profile Widget/SettingsWidget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/Widgets/Transaction/PaymentMethod.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Transaction/PaymentMethod.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/Widgets/Transaction/SelectedTicketQuantity.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Widgets/Transaction/SelectedTicketQuantity.dart" afterDir="false" />
@@ -32,6 +33,7 @@
     <session id="2110620606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -123,7 +125,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -203,7 +205,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="707" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
       <window_info id="Structure" side_tool="true" />
@@ -212,13 +213,13 @@
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="Captures" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.3284553" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3284553" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
